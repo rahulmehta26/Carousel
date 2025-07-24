@@ -24,16 +24,20 @@ A visually engaging, infinitely scrolling carousel built with **React**, **Tailw
 ## 📁 Folder Structure
 
 src/
-│
+
 ├── components/
-│ ├── CarouselItem.tsx 
-│ ├── GradientOverlay.tsx 
-│ └── InfiniteTreadmillCarousel.tsx 
-│
+
+   └── CarouselItem.tsx 
+
+   └── GradientOverlay.tsx 
+
+   └── InfiniteTreadmillCarousel.tsx 
+
 ├── content/
-│ └── carouselItems.ts 
-│
-└── App.tsx / main.tsx
+
+   └── carouselItems.ts 
+
+├── App.tsx / main.tsx
 
 
 ---
